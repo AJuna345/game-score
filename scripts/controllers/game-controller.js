@@ -1,5 +1,5 @@
 import { initializeSession, savePlayer, resetSession } from '../modules/game-session.js';
-import { recordGarfieldHighScore } from '../modules/score-manager.js';
+import { recordGarfieldHighScore } from '../scripts/modules/score-manager.js';
 import { getLeaderboard } from '../module/leaderboard.js';
 import { renderStatus, renderLeaderboard } from '../modules/ui.js';
 import { logAction } from '../modules/utils.js';
