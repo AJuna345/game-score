@@ -1,5 +1,7 @@
 # 🎮 Front-End JS Modules for the Web Game Project (CIS 376)
 
+https://github.com/AJuna345/CIS-376-game
+
 > refer to the [wiki/js modules](https://github.com/barrycumbie/game-score/wiki/js-modules)
 
 ## 🧭 BLUF
@@ -63,3 +65,4 @@ Your job is to organize your code like a small real-world app:
   - updating score data
   - rendering leaderboard
   - resetting game state
+    
